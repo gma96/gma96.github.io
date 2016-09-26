@@ -12,8 +12,10 @@ I'm a computer science major, and I've heard about github and have even download
 Here are some basic commonly-used linux commands that I've learned in this class. 
 
 
-{% highlight %}
-cd 
-pwd
-ls
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
