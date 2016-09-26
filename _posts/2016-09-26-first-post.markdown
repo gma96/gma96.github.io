@@ -17,3 +17,7 @@ cd      #changes directory
 pwd     #prints working directory
 ls      #lists contents of directory
 {% endhighlight %}
+
+For more information on linux, [this][this] resource provides a great overview of different commands. 
+
+[this]: http://linuxcommand.org/lc3_learning_the_shell.php
