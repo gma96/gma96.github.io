@@ -11,8 +11,8 @@ I'm a computer science major, and I've heard about github and have even download
 
 Here are some basic commonly-used linux commands that I've learned in this class. 
 
-{% highlight ruby %}
-cd 
-pwd
-ls
-{% endhighlight %}
+
+`cd`
+`pwd`
+`ls`
+
