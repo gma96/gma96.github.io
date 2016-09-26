@@ -13,7 +13,7 @@ Here are some basic commonly-used linux commands that I've learned in this class
 
 
 {% highlight ruby %}
-cd
-pwd
-ls
+cd      #changes directory  
+pwd     #prints working directory
+ls      #lists contents of directory
 {% endhighlight %}
