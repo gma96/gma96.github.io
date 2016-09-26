@@ -12,8 +12,8 @@ I'm a computer science major, and I've heard about github and have even download
 Here are some basic commonly-used linux commands that I've learned in this class. 
 
 
-<code class="language-" data-lang="">
-cd
+{% highlight %}
+cd 
 pwd
 ls
-</code>
+{% endhighlight %}
