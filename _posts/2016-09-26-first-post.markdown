@@ -13,9 +13,5 @@ Here are some basic commonly-used linux commands that I've learned in this class
 
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+cd
 {% endhighlight %}
