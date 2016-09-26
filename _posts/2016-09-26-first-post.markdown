@@ -13,5 +13,7 @@ Here are some basic commonly-used linux commands that I've learned in this class
 
 
 {% highlight ruby %}
-cd
+cd<br>
+pwd<br>
+ls
 {% endhighlight %}
