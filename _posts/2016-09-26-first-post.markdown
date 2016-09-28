@@ -22,19 +22,5 @@ For more information on linux, [this][this] resource provides a great overview o
 
 [this]: http://linuxcommand.org/lc3_learning_the_shell.php
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Moreover, I've learned the basics of creating and editing websites using html, css, and markdown and how to display websites on github. Its a likely possibility that I might have to create or work with websites in my future career, so its good that I'm learning these useful skills in this class. Overall, I think the things I've learned in this class and the things that I'm going to learn in this class in the future are helpful skills and will help me succeed in other classes and in the future. 
 
-Change 1
-
-Change 2
-
-Change 3
-=======
-Moreover, I've learned the basics of creating and editing websites using html, css, and markdown and how to display websites on github. Its a likely possibility that I might have to create or work with websites in my future career, so its good that I'm learning these useful skills in this class. Overall, I think the things I've learned in this class and the things that I'm going to learn in this class in the future are helpful skills and will help me succeed in other classes and in my career. 
->>>>>>> parent of 4acb424... edited last paragraph
-=======
-Moreover, I've learned the basics of creating and editing websites using html, css, and markdown and how to display websites on github. Its a likely possibility that I might have to create or work with websites in my future career, so its good that I'm learning these useful skills in this class. Overall, I think the things I've learned in this class and the things that I'm going to learn in this class in the future are helpful skills and will help me succeed in other classes and in the future. 
-
->>>>>>> 1d4feeaa0a860ce62e02eb2799b433ec790b0978
