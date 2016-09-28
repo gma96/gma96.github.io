@@ -13,11 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
   color: #d1aeb8;
-<<<<<<< HEAD
-  background-color: purple;
-=======
-  background-color: pink;
->>>>>>> 1d4feeaa0a860ce62e02eb2799b433ec790b0978
+  background-color: #4D071B;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
