@@ -19,7 +19,7 @@ pwd     #prints working directory
 ls      #lists contents of directory
 {% endhighlight %}
 
-For more information on linux, [this resource][this] provides a great overview of different commands. 
+For more information on linux, [this resource][this resource] provides a great overview of different commands. 
 
 [this resource]: http://linuxcommand.org/lc3_learning_the_shell.php
 
