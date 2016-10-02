@@ -23,7 +23,7 @@ For more information on linux, [this resource][this resource] provides a great o
 
 [this resource]: http://linuxcommand.org/lc3_learning_the_shell.php
 
-Moreover, I've learned the basics of creating and editing websites using html, css, and markdown and how to display websites on github. I've learned about customizing the way a website looks, like editing colors, fonts, and text sizes, and I've learned about adding different types of data to a website, like adding pictures, embedding videos, sounds, or widgets, and adding code snippets. It's a likely possibility that I might have to create or work with websites in my future career, so it's good that I'm learning these useful skills in this class. 
+Moreover, I've learned the basics of creating and editing websites using html, css, and markdown and how to display websites on github. I've learned about customizing the way a website looks, like editing colors, fonts, and text sizes, and I've learned about adding different types of data to a website, like adding pictures, embedding videos, sounds, or widgets, and adding snippets of code. It's a likely possibility that I might have to create or work with websites in my future career, so it's good that I'm learning these useful skills.
 
 Overall, I think the things I've learned in this class so far and the things that I'm going to learn in this class later in the semester are helpful skills and will allow me to succeed in other classes and in the future. 
 
