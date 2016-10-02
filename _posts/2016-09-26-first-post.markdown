@@ -19,9 +19,9 @@ pwd     #prints working directory
 ls      #lists contents of directory
 {% endhighlight %}
 
-For more information on linux, [this][this] resource provides a great overview of different commands. 
+For more information on linux, [this resource][this] provides a great overview of different commands. 
 
-[this]: http://linuxcommand.org/lc3_learning_the_shell.php
+[this resource]: http://linuxcommand.org/lc3_learning_the_shell.php
 
 Moreover, I've learned the basics of creating and editing websites using html, css, and markdown and how to display websites on github. Its a likely possibility that I might have to create or work with websites in my future career, so its good that I'm learning these useful skills in this class. Overall, I think the things I've learned in this class and the things that I'm going to learn in this class in the future are helpful skills and will help me succeed in other classes and in the future. 
 
