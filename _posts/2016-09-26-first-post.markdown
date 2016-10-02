@@ -23,5 +23,10 @@ For more information on linux, [this resource][this resource] provides a great o
 
 [this resource]: http://linuxcommand.org/lc3_learning_the_shell.php
 
-Moreover, I've learned the basics of creating and editing websites using html, css, and markdown and how to display websites on github. Its a likely possibility that I might have to create or work with websites in my future career, so its good that I'm learning these useful skills in this class. Overall, I think the things I've learned in this class and the things that I'm going to learn in this class in the future are helpful skills and will help me succeed in other classes and in the future. 
+Moreover, I've learned the basics of creating and editing websites using html, css, and markdown and how to display websites on github. I've learned about customizing the way a website looks, like editing colors, fonts, and text sizes, and I've learned about adding different types of data to a website, like adding pictures, embedding videos, sounds, or widgets, and adding code snippets. It's a likely possibility that I might have to create or work with websites in my future career, so it's good that I'm learning these useful skills in this class. 
 
+Overall, I think the things I've learned in this class so far and the things that I'm going to learn in this class later in the semester are helpful skills and will allow me to succeed in other classes and in the future. 
+
+To end this post, enjoy this vine of some dogs trying to eat water from a hose, which has absolutely nothing to do with this class, but proves that I know how to embed things. 
+
+<div style="text-align:center"><iframe src="https://vine.co/v/eZTKdwtuirz/embed/simple" width="480" height="480" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script></div>
