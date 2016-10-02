@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Design
-permalink: /design/
-category: "design"
-tagline: "it's all about perception."
+layout: page
+title : Community
+permalink: /community/
 ---
+
+<p> Nothing yet! Community engagement write-ups will go here.</p>
