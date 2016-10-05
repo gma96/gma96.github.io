@@ -83,7 +83,7 @@ a {
     a.postLink:visited {
       color: "crimson" !important; }
   a.post-title-link {
-    color: #aaa !important; }
+    color: #d1aeb8 !important; }
     a.post-title-link:hover {
       border-bottom: 1px dotted black !important; }
     a.post-title-link:visited {
@@ -110,7 +110,7 @@ code {
   font-size: 15px;
   border: 1px solid white;
   border-radius: 3px;
-  background-color: #26020C; }
+  background-color: #292929; }
 
 code {
   padding: 1px 5px; }
@@ -269,7 +269,7 @@ pre {
   text-indent: 6px;
   font-family: 'Josefin Sans';
   font-weight: 300;
-  padding-top: 5em; }
+  padding-top: 2em; }
 
 .page-title {
   text-transform: uppercase;
