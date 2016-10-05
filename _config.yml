@@ -6,9 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Grace
+title: <div style="text-align:center"><img src ="https://67.media.tumblr.com/d99bfbc8e7f0a9153053d40cc658af23/tumblr_oelm22gaj21tpp2lco1_250.gif"/></div>
+
 email: 
 description:  ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋
+description2: ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gma96.github.io/" # the base hostname & protocol for your site
 twitter_username: 
