@@ -37,6 +37,8 @@ permalink: /about/
 <br><br>
 •I have 5 dogs at my house
 <br><br>
+•I also have goats and cows at my house, actually they're my dad's, not mine
+<br><br>
 •I have 14,000 followers on twitter simply because I'm in a lot of fandoms
 <br><br>
 •Don't try to find my twitter, you probably won't succeed
