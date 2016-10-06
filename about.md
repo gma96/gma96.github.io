@@ -9,7 +9,7 @@ permalink: /about/
 I'm a sophomore at UNC Chapel Hill and I'm majoring in computer science and minoring in information science. 
 I was born in Fayetteville, NC and have lived in this state my entire life. I'm Filipino and can <i>kind of</i>  mostly speak the language, just nothing complicated. 
 <br><br>
-My free time mostly involve wasting time on the internet and social media, listening to music, watching shows and movies, spending time with friends, and eating food.
+My free time mostly involves wasting time on the internet and social media, listening to music, watching shows and movies, spending time with friends, and eating food.
 The music I listen to goes from pop to rap to acoustic to pop punk to anything else, and I watch different shows and movies, 
 but scifi/fantasy and superhero are probably my favorite. 
 I could list all the singers and bands I listen to and all the shows and movies I like, but I won't because it would 
