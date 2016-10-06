@@ -27,6 +27,8 @@ permalink: /about/
 <br><br>
 •Scifi/fantasy and superhero shows and movies are probably my favorite
 <br><br>
+•Now that I mentioned superheroes, Captain America is my favorite
+<br><br>
 •I listen to a lot of singers and bands
 <br><br>
 •The music I have can easily go from piano and soft singing to electric guitars and screaming
@@ -39,7 +41,7 @@ permalink: /about/
 <br><br>
 •I also have goats and cows at my house, actually they're my dad's, not mine
 <br><br>
-•I have 14,000 followers on twitter simply because I'm in a lot of fandoms
+•I have 14,000 followers on twitter, simply because I'm in a lot of fandoms
 <br><br>
 •Don't try to find my twitter, you probably won't succeed
 <br><br>
