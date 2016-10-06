@@ -8,8 +8,7 @@
 # Site settings
 title: GRACE
 email: 
-description:  ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋
-description2: ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋
+description:  ❋ ❋ ❋ ❋ ❋ ❋ ❋ ❋
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gma96.github.io/" # the base hostname & protocol for your site
 twitter_username: 
