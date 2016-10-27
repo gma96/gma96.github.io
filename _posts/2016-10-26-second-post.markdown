@@ -4,7 +4,9 @@ title:  "A First Look at Scripting"
 date:   2016-10-26 
 categories:
 ---
+<div style="text-align:center"><img src ="https://66.media.tumblr.com/e1ae01dd191e8a302542b92cb63f2f5c/tumblr_ofpzx3Sjb71tpp2lco1_500.gif"/></div>
 
+<br>
 For assignment 3, I was able to work with scripting for the first time. The script I wrote and worked with involves using pandoc to convert a markdown file to different formats, including html, docx, odt, and pdf. The markdown file I used was the reflection post from the second assignment (the first post on this website) but with a couple of added changes to fit the requirements of assignment 3. I changed some of the pictures, added a table, and included smart quotes to the text of the file. 
 
 In order to convert the markdown file into different formats, a software called [Pandoc][pandoc] has to be used. First, the user has to input the name of the file that they want converted. After this has been done, the syntax of converting into different formats is generally the same, no matter what format the file was being converted into. This general syntax is shown below.
