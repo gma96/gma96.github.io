@@ -26,9 +26,9 @@ A list of all the files used for assignment 3 with links is provided below.
 - Script
     - gma96-convert-docs.sh --- [ [link][script] ]
 - Files
-    - SampleWriting.md ---[ [link][md] ]
-    - SampleWriting.html ---[ [link][html] ]
-    - SampleWriting.docx ---[ [link][docx] ]
+    - SampleWriting.md --- [ [link][md] ]
+    - SampleWriting.html --- [ [link][html] ]
+    - SampleWriting.docx --- [ [link][docx] ]
     - SampleWriting.odt --- [ [link][odt] ]
     - SampleWriting.pdf --- [ [link][pdf] ]
 
