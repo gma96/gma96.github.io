@@ -13,13 +13,15 @@ In order to convert the markdown file into different formats, a software called 
 pandoc -o FILENAME.{new format} --smart FILENAME.{original format}
 {% endhighlight %}
 
-The **-o** flag creates a new output file with the new format and the **--smart** flag converts all punctuation in the new document into smart punctuation. For example, if you wanted to convert a **markdown** file named **writing** into a **docx** file, the command would be as follows: 
+For example, if you wanted to convert a **markdown** file named **writing** into a **docx** file, the command would be as follows: 
 
 {% highlight ruby %}
 pandoc -o WRITING.docx --smart WRITING.md
 {% endhighlight %}
 
-Below is a list of all files used for assignment 3 with links provided.
+The **-o** flag creates a new output file with the new format and the **--smart** flag converts all punctuation in the new document into smart punctuation. 
+
+A list of all the files used for assignment 3 with links is provided below. 
 
 - Script
     - gma96-convert-docs.sh --- [ [link][script] ]
