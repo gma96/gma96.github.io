@@ -27,10 +27,10 @@ A list of all the files used for assignment 3 with links is provided below.
     - gma96-convert-docs.sh --- [ [link][script] ]
 - Files
     - SampleWriting.md ---[ [link][md] ]
-    - SampleWriting.html ---[ [link][html]]
-    - SampleWriting.docx ---[ [link][docx]]
-    - SampleWriting.odt --- [[link][odt]]
-    - SampleWriting.pdf --- [[link][pdf]]
+    - SampleWriting.html ---[ [link][html] ]
+    - SampleWriting.docx ---[ [link][docx] ]
+    - SampleWriting.odt --- [ [link][odt] ]
+    - SampleWriting.pdf --- [ [link][pdf] ]
 
 Overall, assignment 3 wasnn't too difficult to complete. Scripting kind of reminded me of programming, which I have a some experience with from other classes, so that familiarity probably contributed to why I was able to complete this assignment with minimal errors. Also, since the syntax for converting files was generally the same no matter what the file types were, it made the script fairly easy to write because there was a lot of repitition. The only issue I had was converting normal punctuation into smart punctuation because I had no idea what smart punctuation was, but after some google searching and some further explanation in class, I was easily able to figure out how to implement smart punctuation into the different files. Although this assignment involved a fairly simple script, I know there is a lot more that can be done with scripting, and maybe in the future I will look a little further into writing scripts and the different more complicated things that can be done with them. 
 
