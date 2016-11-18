@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Scripts and Databases"
+date:   2016-11-17 
+categories:
+---
+
+For assignment 5, I worked with a group to create a script that deals with importing data into a database. We used the same script from assignment 4, however, some modifications had to be made so that the entries from the script eventually end up in a database. 
+
+The repository used for this assignment can be found [here][repo].
+
+[repo]: https://github.com/gma96/braid-assignment-5
+
+This assignment was definitely more difficult than any of our past assignments. It really tested our knowledge about scripts and databases and required us to really use our critical thinking and problem solving skills. There were many times we were completely stuck on what to do and had to do a lot of googling and trial and error. 
+
+In the end, we decided to write two separate scripts. One script is for the person who created the database (referred to as the "database master" for the rest of this reflection post) and the other script is for everyone else in the group. First, everyone who isn't the database master runs their script one by one, and all of their inputs get appended into an sql file. Next, the database master runs their script. Since the database master has direct access to the database, their input goes directly into the database using `INSERT INTO` and doesn't need to go through an sql file first. Next, the database master manually transfers the mysql file with all other entries into the database using `IGNORE INTO TABLE`. The `IGNORE` portion of the command prevents any duplicates from being entered into the database. Because these actions need to be performed in a specific order, we included instructions in the README. 
+
+I've learned a lot about scripting and databases through this assignment, including how incredibly confusing it can all be. However, I think the process of running into errors and figuring out how to fix them always makes for a good learning experience. 
