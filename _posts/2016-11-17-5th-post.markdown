@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Creating an HTML Presentation"
+date:   2016-12-05 
+categories:
+---
+
+For our final assignment, I worked with a partner to create an html presentation. We were allowed to choose any topic that dealt with technology and we chose to do our presentation on the effects of technology on human behavior and design ethics. For this presentation, we split the responsibilities pretty evenly. I was responsible for the intro, which involved discussing what our presentation was going to be about, as well as background information and how all of our topics tie together, and I was also reponsible for a few specific examples of effects technology can have on the brain and human behavior. Reagan was resonsible for adding a few more examples of technology's effects on people, as well as discussing design ethics and the closing remarks. 
+
+Our presentation can be found [here][pres].
+
+To begin this assignment, we first had to do some research on our topic. An article we read at the beginning of this class titled "How Technology Hijacks People’s Minds" gave us the idea of doing our presentation on this subject. It was fairly easy to find information to use because there was a good amount of published material on our topic. After collaborating on finding resources and writing out an outline of our presentation on a shared google doc, our next task was to put all of this information in the format of a markdown file. Because of the guidelines and examples that we were given in class, we were able to figure out how to successfully do this without too much hassle. 
+
+After we finalized the slides and were sure on what we wanted to say, we recorded the corresponding audio and uploaded the files to cloud 9. We followed the recommended conventions of having minimal text on the slides and having the bulk of our information in the audio. Once all of this was completed, we built the presentation by using the command `./build-presentation.sh`. Afterwards, we manually implemented the audio files in `index.html` by using `data-audio-src="audio file pathname"`. Lastly, we customized the look of our presentation by using one of the provided themes in the `css` folder.
+
+Other than a few merge conflicts that we were eventually able to solve, this assignment was fairly easy to complete and I think that this presentation was a good opportunity to exercise the different skills that we learned throughout the class. As usual, it involved the use and knowledge of cloud 9 and github and the importance of good communication skills when collaborating on a project. This presentation also required us to use familiar concepts like markdown and html, but also allowed us to work with new concepts, such as presentation format and audio. Overall, I think that this assignment was a good way to end the class. 
+
+In future classes and in my future career, there is a chance that I might actually use a lot of the skills that I learned in this class because I'm a computer science major and will likely be working with websites and programming. I've learned a lot in this class and I think that it will be beneficial in the long run. 
+
+[pres]: https://ohreagano.github.io/assignment-6/
