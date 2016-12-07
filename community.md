@@ -9,7 +9,7 @@ permalink: /community/
 
 [Community Write-Up #1][this resource]
 
-[Community Write-Up #2][this resource]
+[Community Write-Up #2][2]
 
 
 [this resource]: https://gma96.github.io/communitypost1
